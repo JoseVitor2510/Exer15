@@ -7,7 +7,7 @@ package com.mycompany.exer15;
 
 import javax.swing.JOptionPane;
 
-public class exer15 {
+public class Exer15 {
   public static void main(String[] args) {
     String nome;
     int idade;
